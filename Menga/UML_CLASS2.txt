@@ -1,0 +1,2 @@
+1) Aggiungere alla classe CViaggio attributi "CAeroporto partenza" e "CAeroporto arrivo"
+2) Aggiungere alla classe CViaggio il metodo "cambiaAeroportoPartenza(CAeroporto partenza)"
