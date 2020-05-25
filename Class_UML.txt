@@ -1,0 +1,11 @@
+Aggiungere una classe disponibilita che tiene le informazioni su una localita
+Class Disponibilita{
+
+private CData[] listaDate;
+private float costo;
+private string destinazione;
+
+addInformazioni()
+visualizzaDate();
+eliminaDate();
+}
